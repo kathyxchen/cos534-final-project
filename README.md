@@ -16,5 +16,5 @@
 - `movielens-statistical-Wan_et_al.ipynb`: Following Wan et al.'s statistical analysis. The only result we include in the paper is the ANOVA statistical test.
 - `movielens-MF.ipynb`: Analysis of matrix factorization predictions after running Wan et al.'s code for standard MF and their fairness-aware framework on MovieLens 1M. Note that to run this notebook you need to decompress the `.tar.gz` files in `data` to get the MF results and test errors. 
 
-### MovieLens analysis (Sections 3.4 of the paper)
+### Toy simulation (Sections 3.4 of the paper)
 - `simulation.ipynb`: Simulation codes with annotated parameter setups.

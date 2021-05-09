@@ -7,7 +7,7 @@
 
 ## Organization of notebooks
 
-### MovieLens analysis (Sections 3.1 of the paper)
+### Dataset analysis (Sections 3.1 of the paper)
 - 
 
 ### MovieLens analysis (Sections 3.2 and 3.3 of the paper)

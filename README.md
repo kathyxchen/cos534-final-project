@@ -7,8 +7,14 @@
 
 ## Organization of notebooks
 
-### MovieLens analysis (Sections 2 and 3 of the paper)
+### MovieLens analysis (Sections 3.1 of the paper)
+- 
+
+### MovieLens analysis (Sections 3.2 and 3.3 of the paper)
 - `movielens-preprocess.ipynb`: Primarily used to annotate movies in the rating data to their stereotypical gender, and format the ratings dataset so that it can be easily run with Wan et al.'s code.
 - `movielens-exploratory.ipynb`: Contains the majority of the analysis and results in Section 2 
 - `movielens-statistical-Wan_et_al.ipynb`: Following Wan et al.'s statistical analysis. The only result we include in the paper is the ANOVA statistical test.
 - `movielens-MF.ipynb`: Analysis of matrix factorization predictions after running Wan et al.'s code for standard MF and their fairness-aware framework on MovieLens 1M. Note that to run this notebook you need to decompress the `.tar.gz` files in `data` to get the MF results and test errors. 
+
+### MovieLens analysis (Sections 3.4 of the paper)
+- `simulation.ipynb`: Simulation codes with annotated parameter setups.
